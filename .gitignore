@@ -2,6 +2,6 @@ froala_editor.js
 *~
 .idea
 node_modules
-dist
+yarn.lock
 npm-debug.log
 .DS_STORE
